@@ -40,4 +40,21 @@ class AuthTest extends TestCase
             ['message' => "Successfully logged out"]
         );
     }
+
+    public function testItInvalidAuth()
+    {
+        $user = factory(User::class)->create();
+
+        $response = $this->post(
+            '/api/auth/login',
+            [
+                'email' => $user->email,
+                'password' => false
+            ]
+        );
+
+        $response->assertStatus(401)->assertJsonFragment(
+            ['error' => 'Invalid Login Details']
+        );
+    }
 }

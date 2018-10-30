@@ -3,8 +3,8 @@ My boilerplate for REST API using laravel
 
 ## Endpoint
 * [x] Login
-* [X] Logout
-* [ ] Signup
+* [x] Logout
+* [x] Signup
 * [ ] Forget password
 
 ## Package

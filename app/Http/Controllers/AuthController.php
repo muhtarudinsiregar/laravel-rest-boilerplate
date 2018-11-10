@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Auth;
+use App\Transformers\UserTransformer;
 
 class AuthController extends Controller
 {
@@ -42,7 +43,7 @@ class AuthController extends Controller
      */
     public function me()
     {
-        return response()->json($this->guard()->user(), 200);
+        return $this->response->item($this->guard()->user(), new UserTransformer);
     }
 
     /**

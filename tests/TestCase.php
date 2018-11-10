@@ -4,10 +4,13 @@ namespace Tests;
 
 use Illuminate\Foundation\Testing\TestCase as BaseTestCase;
 use Tymon\JWTAuth\Facades\JWTAuth;
+use App\User;
 
 abstract class TestCase extends BaseTestCase
 {
     use CreatesApplication;
+
+    protected $headers = ['Accept' => 'application/json'];
 
     public function headers($user)
     {
@@ -20,5 +23,15 @@ abstract class TestCase extends BaseTestCase
         }
 
         return $headers;
+    }
+
+    public function login($user = null)
+    {
+        $user = $user ? : factory(User::class)->create();
+        $token = auth()->login($user);
+
+        $this->headers['Authorization'] = 'Bearer ' . $token;
+
+        return $this;
     }
 }

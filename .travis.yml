@@ -7,4 +7,5 @@ cache:
   directories:
     - $HOME/.composer/cache
 
-script: vendor/bin/phpunit
+script:
+  - vendor/bin/phpunit

@@ -1378,7 +1378,7 @@
                 {
                     "name": "Luís Otávio Cobucci Oblonczyk",
                     "email": "lcobucci@gmail.com",
-                    "role": "developer"
+                    "role": "Developer"
                 }
             ],
             "description": "A simple library to work with JSON Web Token and JSON Web Signature",
@@ -1744,16 +1744,16 @@
         },
         {
             "name": "mpociot/laravel-apidoc-generator",
-            "version": "3.0.6",
+            "version": "3.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mpociot/laravel-apidoc-generator.git",
-                "reference": "d52d217fab6dde11f91ae3d87e8e8f605a2cf74c"
+                "reference": "d13b0e1687de3af9168d94e9845dba48423707b0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mpociot/laravel-apidoc-generator/zipball/d52d217fab6dde11f91ae3d87e8e8f605a2cf74c",
-                "reference": "d52d217fab6dde11f91ae3d87e8e8f605a2cf74c",
+                "url": "https://api.github.com/repos/mpociot/laravel-apidoc-generator/zipball/d13b0e1687de3af9168d94e9845dba48423707b0",
+                "reference": "d13b0e1687de3af9168d94e9845dba48423707b0",
                 "shasum": ""
             },
             "require": {
@@ -1806,7 +1806,7 @@
                 "documentation",
                 "laravel"
             ],
-            "time": "2018-11-24T09:41:01+00:00"
+            "time": "2018-12-12T21:07:16+00:00"
         },
         {
             "name": "mpociot/reflection-docblock",
@@ -1980,16 +1980,16 @@
         },
         {
             "name": "nexmo/client",
-            "version": "1.5.2",
+            "version": "1.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Nexmo/nexmo-php.git",
-                "reference": "f192c84ec3cc3e2657fc754e0da1a17e39ac5542"
+                "reference": "01809cc1e17a5af275913c49bb5d444eb6cc06d4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Nexmo/nexmo-php/zipball/f192c84ec3cc3e2657fc754e0da1a17e39ac5542",
-                "reference": "f192c84ec3cc3e2657fc754e0da1a17e39ac5542",
+                "url": "https://api.github.com/repos/Nexmo/nexmo-php/zipball/01809cc1e17a5af275913c49bb5d444eb6cc06d4",
+                "reference": "01809cc1e17a5af275913c49bb5d444eb6cc06d4",
                 "shasum": ""
             },
             "require": {
@@ -2024,7 +2024,7 @@
                 }
             ],
             "description": "PHP Client for using Nexmo's API.",
-            "time": "2018-11-14T14:12:22+00:00"
+            "time": "2018-12-17T10:47:50+00:00"
         },
         {
             "name": "nikic/php-parser",
@@ -4045,16 +4045,16 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v4.1.7",
+            "version": "v4.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
-                "reference": "367e689b2fdc19965be435337b50bc8adf2746c9"
+                "reference": "c41175c801e3edfda90f32e292619d10c27103d7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/367e689b2fdc19965be435337b50bc8adf2746c9",
-                "reference": "367e689b2fdc19965be435337b50bc8adf2746c9",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/c41175c801e3edfda90f32e292619d10c27103d7",
+                "reference": "c41175c801e3edfda90f32e292619d10c27103d7",
                 "shasum": ""
             },
             "require": {
@@ -4073,7 +4073,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "4.1-dev"
+                    "dev-master": "4.2-dev"
                 }
             },
             "autoload": {
@@ -4100,7 +4100,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2018-10-02T16:36:10+00:00"
+            "time": "2018-11-11T19:52:12+00:00"
         },
         {
             "name": "tijsverkoyen/css-to-inline-styles",
@@ -4326,16 +4326,16 @@
         },
         {
             "name": "windwalker/renderer",
-            "version": "3.4.7",
+            "version": "3.4.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ventoviro/windwalker-renderer.git",
-                "reference": "ef1b99501323762b9cd259bd4e3bc85deee2f35f"
+                "reference": "401c5b6c97dd8dd1b6a6c398516cfb417378abb2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ventoviro/windwalker-renderer/zipball/ef1b99501323762b9cd259bd4e3bc85deee2f35f",
-                "reference": "ef1b99501323762b9cd259bd4e3bc85deee2f35f",
+                "url": "https://api.github.com/repos/ventoviro/windwalker-renderer/zipball/401c5b6c97dd8dd1b6a6c398516cfb417378abb2",
+                "reference": "401c5b6c97dd8dd1b6a6c398516cfb417378abb2",
                 "shasum": ""
             },
             "require": {
@@ -4379,20 +4379,20 @@
                 "renderer",
                 "windwalker"
             ],
-            "time": "2018-07-28T15:32:31+00:00"
+            "time": "2018-12-02T04:59:44+00:00"
         },
         {
             "name": "windwalker/structure",
-            "version": "3.4.7",
+            "version": "3.4.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ventoviro/windwalker-structure.git",
-                "reference": "6baed463b4bcc49dd7b4d68c2e39ba2f658b7c12"
+                "reference": "29df7459b4d13fc55c6ea6d9706eb81a1a568df6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ventoviro/windwalker-structure/zipball/6baed463b4bcc49dd7b4d68c2e39ba2f658b7c12",
-                "reference": "6baed463b4bcc49dd7b4d68c2e39ba2f658b7c12",
+                "url": "https://api.github.com/repos/ventoviro/windwalker-structure/zipball/29df7459b4d13fc55c6ea6d9706eb81a1a568df6",
+                "reference": "29df7459b4d13fc55c6ea6d9706eb81a1a568df6",
                 "shasum": ""
             },
             "require": {
@@ -4428,7 +4428,7 @@
                 "structure",
                 "windwalker"
             ],
-            "time": "2018-10-13T05:21:47+00:00"
+            "time": "2018-12-02T04:59:44+00:00"
         },
         {
             "name": "zendframework/zend-diactoros",
@@ -5316,16 +5316,16 @@
         },
         {
             "name": "phpunit/phpunit",
-            "version": "7.4.4",
+            "version": "7.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "b1be2c8530c4c29c3519a052c9fb6cee55053bbd"
+                "reference": "c23d78776ad415d5506e0679723cb461d71f488f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/b1be2c8530c4c29c3519a052c9fb6cee55053bbd",
-                "reference": "b1be2c8530c4c29c3519a052c9fb6cee55053bbd",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/c23d78776ad415d5506e0679723cb461d71f488f",
+                "reference": "c23d78776ad415d5506e0679723cb461d71f488f",
                 "shasum": ""
             },
             "require": {
@@ -5346,7 +5346,7 @@
                 "phpunit/php-timer": "^2.0",
                 "sebastian/comparator": "^3.0",
                 "sebastian/diff": "^3.0",
-                "sebastian/environment": "^3.1 || ^4.0",
+                "sebastian/environment": "^4.0",
                 "sebastian/exporter": "^3.1",
                 "sebastian/global-state": "^2.0",
                 "sebastian/object-enumerator": "^3.0.3",
@@ -5370,7 +5370,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "7.4-dev"
+                    "dev-master": "7.5-dev"
                 }
             },
             "autoload": {
@@ -5396,7 +5396,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2018-11-14T16:52:02+00:00"
+            "time": "2018-12-12T07:20:32+00:00"
         },
         {
             "name": "sebastian/code-unit-reverse-lookup",

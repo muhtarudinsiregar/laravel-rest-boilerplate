@@ -1745,16 +1745,16 @@
         },
         {
             "name": "mpociot/laravel-apidoc-generator",
-            "version": "3.3.0",
+            "version": "3.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mpociot/laravel-apidoc-generator.git",
-                "reference": "20fdf9858a6381c475a3eb54df520fa374725513"
+                "reference": "9ff8c843d4386510c2f9bcf496f7d9435ad3f1f3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mpociot/laravel-apidoc-generator/zipball/20fdf9858a6381c475a3eb54df520fa374725513",
-                "reference": "20fdf9858a6381c475a3eb54df520fa374725513",
+                "url": "https://api.github.com/repos/mpociot/laravel-apidoc-generator/zipball/9ff8c843d4386510c2f9bcf496f7d9435ad3f1f3",
+                "reference": "9ff8c843d4386510c2f9bcf496f7d9435ad3f1f3",
                 "shasum": ""
             },
             "require": {
@@ -1807,7 +1807,7 @@
                 "documentation",
                 "laravel"
             ],
-            "time": "2019-01-02T19:53:45+00:00"
+            "time": "2019-01-08T18:40:49+00:00"
         },
         {
             "name": "mpociot/reflection-docblock",
@@ -3535,7 +3535,7 @@
                 },
                 {
                     "name": "Gert de Pagter",
-                    "email": "BackEndTea@gmail.com"
+                    "email": "backendtea@gmail.com"
                 }
             ],
             "description": "Symfony polyfill for ctype functions",
@@ -4329,20 +4329,20 @@
         },
         {
             "name": "windwalker/renderer",
-            "version": "3.4.9",
+            "version": "3.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ventoviro/windwalker-renderer.git",
-                "reference": "401c5b6c97dd8dd1b6a6c398516cfb417378abb2"
+                "reference": "04eebe3440ff6faee49cac2830e9657c1cba010a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ventoviro/windwalker-renderer/zipball/401c5b6c97dd8dd1b6a6c398516cfb417378abb2",
-                "reference": "401c5b6c97dd8dd1b6a6c398516cfb417378abb2",
+                "url": "https://api.github.com/repos/ventoviro/windwalker-renderer/zipball/04eebe3440ff6faee49cac2830e9657c1cba010a",
+                "reference": "04eebe3440ff6faee49cac2830e9657c1cba010a",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.5.9",
+                "php": ">=7.1.3",
                 "windwalker/structure": "~3.0"
             },
             "require-dev": {
@@ -4382,24 +4382,24 @@
                 "renderer",
                 "windwalker"
             ],
-            "time": "2018-12-02T04:59:44+00:00"
+            "time": "2019-01-13T08:21:45+00:00"
         },
         {
             "name": "windwalker/structure",
-            "version": "3.4.9",
+            "version": "3.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ventoviro/windwalker-structure.git",
-                "reference": "29df7459b4d13fc55c6ea6d9706eb81a1a568df6"
+                "reference": "f18377064474ea9be5417b71b1a1554a8f19dde0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ventoviro/windwalker-structure/zipball/29df7459b4d13fc55c6ea6d9706eb81a1a568df6",
-                "reference": "29df7459b4d13fc55c6ea6d9706eb81a1a568df6",
+                "url": "https://api.github.com/repos/ventoviro/windwalker-structure/zipball/f18377064474ea9be5417b71b1a1554a8f19dde0",
+                "reference": "f18377064474ea9be5417b71b1a1554a8f19dde0",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.5.9"
+                "php": ">=7.1.3"
             },
             "require-dev": {
                 "ext-json": "*",
@@ -4431,7 +4431,7 @@
                 "structure",
                 "windwalker"
             ],
-            "time": "2018-12-02T04:59:44+00:00"
+            "time": "2019-01-13T08:21:45+00:00"
         },
         {
             "name": "zendframework/zend-diactoros",

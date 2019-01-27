@@ -1,5 +1,6 @@
 # laravel-rest-boilerplate
 [![Build Status](https://travis-ci.org/muhtarudinsiregar/laravel-rest-boilerplate.svg?branch=master)](https://travis-ci.org/muhtarudinsiregar/laravel-rest-boilerplate)
+[![Coverage Status](https://coveralls.io/repos/github/muhtarudinsiregar/laravel-rest-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/muhtarudinsiregar/laravel-rest-boilerplate?branch=master)
 
 My boilerplate for REST API using laravel
 

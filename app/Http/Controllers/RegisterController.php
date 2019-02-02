@@ -10,8 +10,7 @@ class RegisterController extends Controller
 {
     public function index(RegisterRequest $request)
     {
-        if (User::create($request->all())) {
-            return $this->response()->created();
-        }
+        User::create($request->all());
+        return $this->response()->created();
     }
 }

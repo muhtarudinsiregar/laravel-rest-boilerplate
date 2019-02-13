@@ -1745,16 +1745,16 @@
         },
         {
             "name": "mpociot/laravel-apidoc-generator",
-            "version": "3.3.1",
+            "version": "3.3.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mpociot/laravel-apidoc-generator.git",
-                "reference": "9ff8c843d4386510c2f9bcf496f7d9435ad3f1f3"
+                "reference": "eb54c1608a82b2633bf7dfef64f021f1a3b2482a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mpociot/laravel-apidoc-generator/zipball/9ff8c843d4386510c2f9bcf496f7d9435ad3f1f3",
-                "reference": "9ff8c843d4386510c2f9bcf496f7d9435ad3f1f3",
+                "url": "https://api.github.com/repos/mpociot/laravel-apidoc-generator/zipball/eb54c1608a82b2633bf7dfef64f021f1a3b2482a",
+                "reference": "eb54c1608a82b2633bf7dfef64f021f1a3b2482a",
                 "shasum": ""
             },
             "require": {
@@ -1807,7 +1807,7 @@
                 "documentation",
                 "laravel"
             ],
-            "time": "2019-01-08T18:40:49+00:00"
+            "time": "2019-02-12T19:54:08+00:00"
         },
         {
             "name": "mpociot/reflection-docblock",
@@ -3734,7 +3734,7 @@
                 },
                 {
                     "name": "Gert de Pagter",
-                    "email": "backendtea@gmail.com"
+                    "email": "BackEndTea@gmail.com"
                 }
             ],
             "description": "Symfony polyfill for ctype functions",
@@ -4296,16 +4296,16 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v4.2.2",
+            "version": "v4.2.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
-                "reference": "d0aa6c0ea484087927b49fd513383a7d36190ca6"
+                "reference": "d461670ee145092b7e2a56c1da7118f19cadadb0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/d0aa6c0ea484087927b49fd513383a7d36190ca6",
-                "reference": "d0aa6c0ea484087927b49fd513383a7d36190ca6",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/d461670ee145092b7e2a56c1da7118f19cadadb0",
+                "reference": "d461670ee145092b7e2a56c1da7118f19cadadb0",
                 "shasum": ""
             },
             "require": {
@@ -4351,7 +4351,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2019-01-03T09:07:35+00:00"
+            "time": "2019-01-16T20:35:37+00:00"
         },
         {
             "name": "tijsverkoyen/css-to-inline-styles",
@@ -4579,16 +4579,16 @@
         },
         {
             "name": "windwalker/renderer",
-            "version": "3.5",
+            "version": "3.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ventoviro/windwalker-renderer.git",
-                "reference": "04eebe3440ff6faee49cac2830e9657c1cba010a"
+                "reference": "9999d99c1adbc6b82e7a158701c8689efb817687"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ventoviro/windwalker-renderer/zipball/04eebe3440ff6faee49cac2830e9657c1cba010a",
-                "reference": "04eebe3440ff6faee49cac2830e9657c1cba010a",
+                "url": "https://api.github.com/repos/ventoviro/windwalker-renderer/zipball/9999d99c1adbc6b82e7a158701c8689efb817687",
+                "reference": "9999d99c1adbc6b82e7a158701c8689efb817687",
                 "shasum": ""
             },
             "require": {
@@ -4632,20 +4632,20 @@
                 "renderer",
                 "windwalker"
             ],
-            "time": "2019-01-13T08:21:45+00:00"
+            "time": "2019-01-13T08:39:07+00:00"
         },
         {
             "name": "windwalker/structure",
-            "version": "3.5",
+            "version": "3.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ventoviro/windwalker-structure.git",
-                "reference": "f18377064474ea9be5417b71b1a1554a8f19dde0"
+                "reference": "c54090c14f1a9d1bd2a791d64d9aaceaa9440e90"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ventoviro/windwalker-structure/zipball/f18377064474ea9be5417b71b1a1554a8f19dde0",
-                "reference": "f18377064474ea9be5417b71b1a1554a8f19dde0",
+                "url": "https://api.github.com/repos/ventoviro/windwalker-structure/zipball/c54090c14f1a9d1bd2a791d64d9aaceaa9440e90",
+                "reference": "c54090c14f1a9d1bd2a791d64d9aaceaa9440e90",
                 "shasum": ""
             },
             "require": {
@@ -4681,7 +4681,7 @@
                 "structure",
                 "windwalker"
             ],
-            "time": "2019-01-13T08:21:45+00:00"
+            "time": "2019-02-05T05:54:56+00:00"
         },
         {
             "name": "zendframework/zend-diactoros",

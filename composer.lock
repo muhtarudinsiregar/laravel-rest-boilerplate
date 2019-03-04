@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6419a9616a75edc456bf76e2e3e82b66",
+    "content-hash": "b99769fd6557bb551950279196743c96",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -122,16 +122,16 @@
         },
         {
             "name": "dingo/api",
-            "version": "v2.0.0-beta1",
+            "version": "2.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dingo/api.git",
-                "reference": "8f6fa8b36401838c18e6053efbad7a8c8a04863c"
+                "reference": "df0665630c2bea78eeef05690c551284dcd28a2c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dingo/api/zipball/8f6fa8b36401838c18e6053efbad7a8c8a04863c",
-                "reference": "8f6fa8b36401838c18e6053efbad7a8c8a04863c",
+                "url": "https://api.github.com/repos/dingo/api/zipball/df0665630c2bea78eeef05690c551284dcd28a2c",
+                "reference": "df0665630c2bea78eeef05690c551284dcd28a2c",
                 "shasum": ""
             },
             "require": {
@@ -200,7 +200,7 @@
                 "laravel",
                 "restful"
             ],
-            "time": "2019-01-25T01:33:56+00:00"
+            "time": "2019-03-02T11:24:34+00:00"
         },
         {
             "name": "dingo/blueprint",
